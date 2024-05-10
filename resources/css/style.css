@@ -1,0 +1,20 @@
+/* Stylesheet Excursion */
+
+html {
+    font-family: Verdana;
+    text-align: center;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 3.125rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.cta {
+font-size: 1rem;
+color: aquamarine;
+}
