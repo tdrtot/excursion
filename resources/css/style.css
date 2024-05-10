@@ -14,7 +14,30 @@ h1 {
     margin-bottom: 1rem;
 }
 
+h2 {
+    font-size: 2.625rem;
+    font-weight: 300;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+h4,h5 {
+    font-color: gray;
+    font-size: 1.3125rem;
+}
+
+h5 {
+    text-align: right;
+}
+
 .cta {
 font-size: 1rem;
 color: aquamarine;
+}
+
+.image-container {
+display:flex;
+justify-content: center;
+margin: .5rem;
+
 }
