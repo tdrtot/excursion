@@ -12,6 +12,7 @@ h1 {
     font-size: 3.125rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
+    font-weight: normal;
 }
 
 h2 {
@@ -22,14 +23,14 @@ h2 {
 }
 
 h4,h5 {
-    font-color: gray;
+    color: gray;
     font-size: 1.3125rem;
+    font-weight: 300;
 }
 
 h5 {
     text-align: right;
 }
-
 .cta {
 font-size: 1rem;
 color: aquamarine;
@@ -38,6 +39,16 @@ color: aquamarine;
 .image-container {
 display:flex;
 justify-content: center;
-margin: .5rem;
+margin: 1rem;
 
+
+}
+
+#copyright {
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+}
+
+#phone {
+    padding-bottom: 1.5rem;
 }
